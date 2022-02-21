@@ -1,0 +1,3 @@
+[submodule "TorquatoJiaoAlgorithm/PolynomialCalculator"]
+	path = TorquatoJiaoAlgorithm/PolynomialCalculator
+	url = https://github.com/mike006322/PolynomialCalculator.git
